@@ -1,27 +1,27 @@
 # AI-Powered-Academic-Career-Planning-Platform
 TrojanNAV is an AI-powered platform designed to transform the academic and career planning experience for USC Marshall MSBA students.
 
-# TrojanNAV 🎓
+# TrojanNAV 
 
 > AI-Powered Academic & Career Planning Platform for USC Marshall MSBA Students
 
 > **[👉 View Interactive Prototype](https://www.figma.com/make/gl20OVRRRb6xki8ebM6iS9/Figma_Prototype?fullscreen=1&t=u1c1tH1EBrxVKPNc-1)**
 ---
 
-## 🎯 Problem
+## Problem
 
 MSBA students face **scattered resources** and **information overload** when planning their academic journey:
 
-- 📚 **Vague course descriptions** → Students pick electives blindly
-- 🎪 **Unclear workshop value** → Miss critical skill-building opportunities  
-- 👥 **Ineffective alumni networking** → Waste time with no response
-- ⏰ **Hours of trial-and-error** → Frustration and uncertainty
+- **Vague course descriptions** → Students pick electives blindly
+- **Unclear workshop value** → Miss critical skill-building opportunities  
+- **Ineffective alumni networking** → Waste time with no response
+- **Hours of trial-and-error** → Frustration and uncertainty
 
 **Result:** Students know where they want to go, but don't know how to get there.
 
 ---
 
-## 💡 Solution
+## Solution
 
 **TrojanNAV** consolidates everything into one intelligent platform that provides:
 
@@ -29,23 +29,23 @@ MSBA students face **scattered resources** and **information overload** when pla
 
 | Feature | What It Does |
 |---------|-------------|
-| 🎓 **Smart Course Recommendations** | AI suggests electives based on your background + career goals, with professor reviews integrated |
-| 🛠️ **Workshop Discovery** | Get personalized workshop recommendations that fill your specific skill gaps |
-| 🤝 **Alumni Matching** | AI connects you with relevant alumni based on career path similarity |
-| 📅 **Unified Calendar** | One place for courses, workshops, networking events + progress tracking |
+|  **Smart Course Recommendations** | AI suggests electives based on your background + career goals, with professor reviews integrated |
+|  **Workshop Discovery** | Get personalized workshop recommendations that fill your specific skill gaps |
+|  **Alumni Matching** | AI connects you with relevant alumni based on career path similarity |
+|  **Unified Calendar** | One place for courses, workshops, networking events + progress tracking |
 
 ---
 
-## 👤 Who We Built This For
+## Who We Built This For
 
 **Meet Emily** - First-Year MSBA Student
 
-- 🎯 **Goal:** Break into Data Analytics
-- 😰 **Challenges:** 
+-  **Goal:** Break into Data Analytics
+-  **Challenges:** 
   - Overwhelmed by scattered resources
   - Unsure which electives build the right skills
   - Doesn't know which alumni to connect with
-- ✨ **With TrojanNAV:** Confident, informed decisions backed by data
+-  **With TrojanNAV:** Confident, informed decisions backed by data
 
 ---
 
@@ -74,7 +74,7 @@ graph LR
 
 ---
 
-## 🎨 Key Screens
+## Key Screens
 
 > **[👉 View Interactive Prototype](https://www.figma.com/make/gl20OVRRRb6xki8ebM6iS9/Figma_Prototype?fullscreen=1&t=u1c1tH1EBrxVKPNc-1)**
 
@@ -89,15 +89,6 @@ AI-matched alumni profiles with career paths and contact options
 
 ---
 
-## 📊 Success Metrics
-
-- **80%+** MSBA student adoption rate
-- **5+ hours saved** per student on research
-- **Improved job placement** through informed decisions
-- **Stronger alumni connections** with higher response rates
-
----
-
 ## 🛠️ Technical Stack
 
 - **AI Engine:** Machine learning recommendation algorithms
@@ -107,7 +98,7 @@ AI-matched alumni profiles with career paths and contact options
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 | Phase | Focus | Timeline |
 |-------|-------|----------|
@@ -118,7 +109,7 @@ AI-matched alumni profiles with career paths and contact options
 
 ---
 
-## 👥 Team
+## Team
 
 **C4 Team Members:**
 - Xiaoyu Ma
@@ -132,10 +123,9 @@ AI-matched alumni profiles with career paths and contact options
 
 ## 📁 Project Resources
 
-- [📊 Presentation Slides](./docs/PPT.pdf)
-- [📝 Product Requirements Document](./docs/PRD.pdf)
+- [📝 Project Brief](./docs/Project_Brief.pdf)
+- [📊 Presentation Slides](./docs/Slides.pdf)
 - [🎨 Figma Prototype](https://www.figma.com/make/gl20OVRRRb6xki8ebM6iS9/Figma_Prototype?fullscreen=1&t=u1c1tH1EBrxVKPNc-1) - **Interactive Demo**
-- [📋 User Survey Results](./docs/survey.pdf)
 
 ---
 
@@ -144,14 +134,6 @@ AI-matched alumni profiles with career paths and contact options
 **Course:** AI-CaseCom  
 **Institution:** USC Marshall School of Business  
 **Program:** Master of Science in Business Analytics (MSBA)
-
----
-
-## 📫 Contact
-
-Questions or feedback? Reach out to the TrojanNAV team!
-
----
 
 <div align="center">
   <sub>Built with ❤️ by C4 Team | USC Marshall 2024-2025</sub>
