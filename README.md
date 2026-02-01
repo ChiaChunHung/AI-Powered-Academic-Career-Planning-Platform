@@ -8,6 +8,15 @@ TrojanNAV is an AI-powered platform designed to transform the academic and caree
 > **[👉 View Interactive Prototype](https://www.figma.com/make/gl20OVRRRb6xki8ebM6iS9/Figma_Prototype?fullscreen=1&t=u1c1tH1EBrxVKPNc-1)**
 ---
 
+
+## Project Resources
+
+- [📝 Project Brief](./Project_Brief.pdf)
+- [📊 Presentation Slides](./Slides.pdf)
+- [🎨 Figma Prototype](https://www.figma.com/make/gl20OVRRRb6xki8ebM6iS9/Figma_Prototype?fullscreen=1&t=u1c1tH1EBrxVKPNc-1) - **Interactive Demo**
+
+---
+
 ## Problem
 
 MSBA students face **scattered resources** and **information overload** when planning their academic journey:
@@ -118,14 +127,6 @@ AI-matched alumni profiles with career paths and contact options
 - Tony Hung
 - Zhengyuan Pei
 - Sean Lin
-
----
-
-## Project Resources
-
-- [📝 Project Brief](./Project_Brief.pdf)
-- [📊 Presentation Slides](./Slides.pdf)
-- [🎨 Figma Prototype](https://www.figma.com/make/gl20OVRRRb6xki8ebM6iS9/Figma_Prototype?fullscreen=1&t=u1c1tH1EBrxVKPNc-1) - **Interactive Demo**
 
 ---
 
