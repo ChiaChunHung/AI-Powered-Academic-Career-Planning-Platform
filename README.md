@@ -5,9 +5,7 @@ TrojanNAV is an AI-powered platform designed to transform the academic and caree
 
 > AI-Powered Academic & Career Planning Platform for USC Marshall MSBA Students
 
-[![Project Status](https://img.shields.io/badge/Status-Prototype-blue.svg)](https://github.com)
-[![Team](https://img.shields.io/badge/Team-C4-orange.svg)](https://github.com)
-
+> **[👉 View Interactive Prototype](https://www.figma.com/make/gl20OVRRRb6xki8ebM6iS9/Figma_Prototype?fullscreen=1&t=u1c1tH1EBrxVKPNc-1)**
 ---
 
 ## 🎯 Problem
