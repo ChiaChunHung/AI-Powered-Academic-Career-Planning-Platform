@@ -49,7 +49,7 @@ MSBA students face **scattered resources** and **information overload** when pla
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 ```mermaid
 graph LR
@@ -89,7 +89,7 @@ AI-matched alumni profiles with career paths and contact options
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **AI Engine:** Machine learning recommendation algorithms
 - **Data Integration:** USC courses + RateMyProfessor + Alumni database
@@ -121,7 +121,7 @@ AI-matched alumni profiles with career paths and contact options
 
 ---
 
-## 📁 Project Resources
+## Project Resources
 
 - [📝 Project Brief](./Project_Brief.pdf)
 - [📊 Presentation Slides](./Slides.pdf)
@@ -129,12 +129,12 @@ AI-matched alumni profiles with career paths and contact options
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 
 **Course:** AI-CaseCom  
 **Institution:** USC Marshall School of Business  
 **Program:** Master of Science in Business Analytics (MSBA)
 
 <div align="center">
-  <sub>Built with ❤️ by C4 Team | USC Marshall 2024-2025</sub>
+  <sub>Built with ❤️ by C4 Team | USC Marshall 2025</sub>
 </div>
